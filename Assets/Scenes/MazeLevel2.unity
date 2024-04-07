@@ -370,7 +370,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 700396889}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &700396891
 Camera:
   m_ObjectHideFlags: 0
@@ -468,7 +468,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.392
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
